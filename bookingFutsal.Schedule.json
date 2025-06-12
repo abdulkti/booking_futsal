@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "6849a246d3657a835b50eb7c"
+  },
+  "schedule_id": "SCH001",
+  "customer_id": "C001",
+  "court_id": "CT001",
+  "staff_id": "S001",
+  "booking_date": {
+    "$date": "2025-06-15T00:00:00.000Z"
+  },
+  "start_time": "10:00",
+  "day_of_week": "Sunday",
+  "status_booking": "Confirmed"
+},
+{
+  "_id": {
+    "$oid": "6849a246d3657a835b50eb7d"
+  },
+  "schedule_id": "SCH002",
+  "customer_id": "C002",
+  "court_id": "CT002",
+  "staff_id": "S002",
+  "booking_date": {
+    "$date": "2025-06-16T00:00:00.000Z"
+  },
+  "start_time": "12:00",
+  "day_of_week": "Monday",
+  "status_booking": "Pending"
+},
+{
+  "_id": {
+    "$oid": "6849a246d3657a835b50eb7e"
+  },
+  "schedule_id": "SCH003",
+  "customer_id": "C003",
+  "court_id": "CT003",
+  "staff_id": "S003",
+  "booking_date": {
+    "$date": "2025-06-17T00:00:00.000Z"
+  },
+  "start_time": "14:00",
+  "day_of_week": "Tuesday",
+  "status_booking": "Confirmed"
+},
+{
+  "_id": {
+    "$oid": "6849a246d3657a835b50eb7f"
+  },
+  "schedule_id": "SCH004",
+  "customer_id": "C004",
+  "court_id": "CT004",
+  "staff_id": "S004",
+  "booking_date": {
+    "$date": "2025-06-18T00:00:00.000Z"
+  },
+  "start_time": "16:00",
+  "day_of_week": "Wednesday",
+  "status_booking": "Cancelled"
+},
+{
+  "_id": {
+    "$oid": "6849a246d3657a835b50eb80"
+  },
+  "schedule_id": "SCH005",
+  "customer_id": "C005",
+  "court_id": "CT005",
+  "staff_id": "S005",
+  "booking_date": {
+    "$date": "2025-06-19T00:00:00.000Z"
+  },
+  "start_time": "18:00",
+  "day_of_week": "Thursday",
+  "status_booking": "Confirmed"
+},
+{
+  "_id": {
+    "$oid": "6849a246d3657a835b50eb81"
+  },
+  "schedule_id": "SCH006",
+  "customer_id": "C006",
+  "court_id": "CT001",
+  "staff_id": "S001",
+  "booking_date": {
+    "$date": "2025-06-20T00:00:00.000Z"
+  },
+  "start_time": "08:00",
+  "day_of_week": "Friday",
+  "status_booking": "Pending"
+},
+{
+  "_id": {
+    "$oid": "6849a246d3657a835b50eb82"
+  },
+  "schedule_id": "SCH007",
+  "customer_id": "C007",
+  "court_id": "CT002",
+  "staff_id": "S002",
+  "booking_date": {
+    "$date": "2025-06-21T00:00:00.000Z"
+  },
+  "start_time": "09:00",
+  "day_of_week": "Saturday",
+  "status_booking": "Confirmed"
+},
+{
+  "_id": {
+    "$oid": "6849a246d3657a835b50eb83"
+  },
+  "schedule_id": "SCH008",
+  "customer_id": "C008",
+  "court_id": "CT003",
+  "staff_id": "S003",
+  "booking_date": {
+    "$date": "2025-06-22T00:00:00.000Z"
+  },
+  "start_time": "11:00",
+  "day_of_week": "Sunday",
+  "status_booking": "Pending"
+},
+{
+  "_id": {
+    "$oid": "6849a246d3657a835b50eb84"
+  },
+  "schedule_id": "SCH009",
+  "customer_id": "C009",
+  "court_id": "CT004",
+  "staff_id": "S004",
+  "booking_date": {
+    "$date": "2025-06-23T00:00:00.000Z"
+  },
+  "start_time": "13:00",
+  "day_of_week": "Monday",
+  "status_booking": "Confirmed"
+},
+{
+  "_id": {
+    "$oid": "6849a246d3657a835b50eb85"
+  },
+  "schedule_id": "SCH010",
+  "customer_id": "C010",
+  "court_id": "CT005",
+  "staff_id": "S005",
+  "booking_date": {
+    "$date": "2025-06-24T00:00:00.000Z"
+  },
+  "start_time": "15:00",
+  "day_of_week": "Tuesday",
+  "status_booking": "Confirmed"
+}]

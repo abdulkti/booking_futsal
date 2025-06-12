@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "6849a1f9d3657a835b50eb68"
+  },
+  "customer_id": "C002",
+  "customer_name": "Anna Smith",
+  "phone_number": "081298765432",
+  "email": "anna@example.com"
+},
+{
+  "_id": {
+    "$oid": "6849a1f9d3657a835b50eb69"
+  },
+  "customer_id": "C003",
+  "customer_name": "Budi Santoso",
+  "phone_number": "082112345678",
+  "email": "budi@example.com"
+},
+{
+  "_id": {
+    "$oid": "6849a1f9d3657a835b50eb6a"
+  },
+  "customer_id": "C004",
+  "customer_name": "Siti Aminah",
+  "phone_number": "085612345678",
+  "email": "siti@example.com"
+},
+{
+  "_id": {
+    "$oid": "6849a1f9d3657a835b50eb6b"
+  },
+  "customer_id": "C005",
+  "customer_name": "Michael Tan",
+  "phone_number": "083812345678",
+  "email": "michael@example.com"
+},
+{
+  "_id": {
+    "$oid": "6849a1f9d3657a835b50eb6c"
+  },
+  "customer_id": "C006",
+  "customer_name": "Rafi Ahmad",
+  "phone_number": "081345678901",
+  "email": "rafi@example.com"
+},
+{
+  "_id": {
+    "$oid": "6849a1f9d3657a835b50eb6d"
+  },
+  "customer_id": "C007",
+  "customer_name": "Nurul Aini",
+  "phone_number": "082223344556",
+  "email": "nurul@example.com"
+},
+{
+  "_id": {
+    "$oid": "6849a1f9d3657a835b50eb6e"
+  },
+  "customer_id": "C008",
+  "customer_name": "Andika Pratama",
+  "phone_number": "085511223344",
+  "email": "andika@example.com"
+},
+{
+  "_id": {
+    "$oid": "6849a1f9d3657a835b50eb6f"
+  },
+  "customer_id": "C009",
+  "customer_name": "Maya Fitri",
+  "phone_number": "081788899900",
+  "email": "maya@example.com"
+},
+{
+  "_id": {
+    "$oid": "6849a1f9d3657a835b50eb70"
+  },
+  "customer_id": "C010",
+  "customer_name": "Joko Widodo",
+  "phone_number": "082266778899",
+  "email": "joko@example.com"
+}]

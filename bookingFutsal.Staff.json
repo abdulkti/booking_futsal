@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "6849a232d3657a835b50eb77"
+  },
+  "staff_id": "S001",
+  "name": "Sarah",
+  "role": "Admin"
+},
+{
+  "_id": {
+    "$oid": "6849a232d3657a835b50eb78"
+  },
+  "staff_id": "S002",
+  "name": "Rina",
+  "role": "Receptionist"
+},
+{
+  "_id": {
+    "$oid": "6849a232d3657a835b50eb79"
+  },
+  "staff_id": "S003",
+  "name": "Dedi",
+  "role": "Manager"
+},
+{
+  "_id": {
+    "$oid": "6849a232d3657a835b50eb7a"
+  },
+  "staff_id": "S004",
+  "name": "Fajar",
+  "role": "Staff Lapangan"
+},
+{
+  "_id": {
+    "$oid": "6849a232d3657a835b50eb7b"
+  },
+  "staff_id": "S005",
+  "name": "Nina",
+  "role": "Admin"
+}]

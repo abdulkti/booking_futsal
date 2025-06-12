@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "6849a253d3657a835b50eb86"
+  },
+  "transaction_id": "T001",
+  "schedule_id": "SCH001",
+  "transaction_date": {
+    "$date": "2025-06-10T10:30:00.000Z"
+  },
+  "remarks": "Paid"
+},
+{
+  "_id": {
+    "$oid": "6849a253d3657a835b50eb87"
+  },
+  "transaction_id": "T002",
+  "schedule_id": "SCH002",
+  "transaction_date": {
+    "$date": "2025-06-11T11:00:00.000Z"
+  },
+  "remarks": "Pending"
+},
+{
+  "_id": {
+    "$oid": "6849a253d3657a835b50eb88"
+  },
+  "transaction_id": "T003",
+  "schedule_id": "SCH003",
+  "transaction_date": {
+    "$date": "2025-06-12T12:15:00.000Z"
+  },
+  "remarks": "Paid"
+},
+{
+  "_id": {
+    "$oid": "6849a253d3657a835b50eb89"
+  },
+  "transaction_id": "T004",
+  "schedule_id": "SCH004",
+  "transaction_date": {
+    "$date": "2025-06-13T13:45:00.000Z"
+  },
+  "remarks": "Cancelled"
+},
+{
+  "_id": {
+    "$oid": "6849a253d3657a835b50eb8a"
+  },
+  "transaction_id": "T005",
+  "schedule_id": "SCH005",
+  "transaction_date": {
+    "$date": "2025-06-14T14:30:00.000Z"
+  },
+  "remarks": "Paid"
+},
+{
+  "_id": {
+    "$oid": "6849a253d3657a835b50eb8b"
+  },
+  "transaction_id": "T006",
+  "schedule_id": "SCH006",
+  "transaction_date": {
+    "$date": "2025-06-15T15:00:00.000Z"
+  },
+  "remarks": "Pending"
+},
+{
+  "_id": {
+    "$oid": "6849a253d3657a835b50eb8c"
+  },
+  "transaction_id": "T007",
+  "schedule_id": "SCH007",
+  "transaction_date": {
+    "$date": "2025-06-16T16:00:00.000Z"
+  },
+  "remarks": "Paid"
+},
+{
+  "_id": {
+    "$oid": "6849a253d3657a835b50eb8d"
+  },
+  "transaction_id": "T008",
+  "schedule_id": "SCH008",
+  "transaction_date": {
+    "$date": "2025-06-17T17:00:00.000Z"
+  },
+  "remarks": "Pending"
+},
+{
+  "_id": {
+    "$oid": "6849a253d3657a835b50eb8e"
+  },
+  "transaction_id": "T009",
+  "schedule_id": "SCH009",
+  "transaction_date": {
+    "$date": "2025-06-18T18:00:00.000Z"
+  },
+  "remarks": "Paid"
+},
+{
+  "_id": {
+    "$oid": "6849a253d3657a835b50eb8f"
+  },
+  "transaction_id": "T010",
+  "schedule_id": "SCH010",
+  "transaction_date": {
+    "$date": "2025-06-19T19:00:00.000Z"
+  },
+  "remarks": "Paid"
+}]
